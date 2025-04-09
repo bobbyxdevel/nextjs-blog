@@ -1,11 +1,10 @@
 ---
 title: Emacs Quickguide
+coverImage: /assets/9d07ed17d5cad9e6177ce0c65388d024.jpg
 date: 2025-04-09T05:22:00.000Z
 author:
   name: bobbyxdevel
   picture: /assets/logo.jpg
-ogImage:
-  url: /assets/9d07ed17d5cad9e6177ce0c65388d024.jpg
 ---
 \# Introduction to Emacs
 
